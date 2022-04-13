@@ -1,4 +1,5 @@
-﻿using UnityEngine;
+﻿using Masot.Standard.Utility;
+using UnityEngine;
 using UnityEngine.Events;
 
 namespace Masot.Standard.Movement
